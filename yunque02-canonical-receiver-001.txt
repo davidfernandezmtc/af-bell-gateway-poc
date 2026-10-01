@@ -1,0 +1,1 @@
+Permanent canonical GitHub receiver validation for AF-YUNQUE-WORK-02. GitHub only wakes. Drive decides.
